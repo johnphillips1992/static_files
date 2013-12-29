@@ -1,0 +1,53 @@
+body {
+  background: #F0F5F5;
+  padding-top: 50px;
+}
+.main-content {
+  background: white;
+  padding: 20px 5%;
+  text-align: center;
+  box-shadow: 0 0 30px 0;
+  margin-bottom: 30px;
+}
+
+.breadcrumb {
+  background-color: inherit;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.cms_modal {
+  margin-top: -300px !important;
+}
+
+.cms_modal-body.cms_loader {
+  height: 500px !important;
+}
+
+.user-creation {
+  text-align: left;
+}
+
+.section-content {
+  margin-bottom: 80px;
+  text-align: left;
+}
+
+.test-questions {
+  text-align: left;
+}
+
+.username {
+  text-align: right;
+}
+
+.comment {
+  text-align: left;
+  width: 100%;
+}
+
+.comment-form {
+  text-align: left;
+  width: 100%
+}
+
